@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-Solution URL: 
+Solution URL: https://www.frontendmentor.io/solutions/css-and-html-02h2cJGny1
 Live Site URL: https://diegovalois.github.io/qr_code_challenge/
 
 ### What I learned
