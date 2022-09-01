@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+*{
+    margin: 0px;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*** BOX ***/
+
+#box{
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    height: 430px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+/** qr code **/
+
+img{
+    width: 250px;
+    border-radius: 10px;
+    margin: 15px 15px 0px 15px;
+}
+
+/** description **/
+
+.description{
+    text-align: center;
+    padding: 15px;
+    margin: 0px;
+}
+
+h3{
+    color: hsl(218, 44%, 22%);
+    margin: 0px 0px 10px 0px;
+    padding: 0px 3px;
+}
+
+p{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+
+/*** FOOTER ***/
+
+.attribution { 
+    position: absolute;
+    bottom: 1rem;
+    text-align: center; 
+} 
+
+.attribution p{
+    font-size: 11px; 
+    transition: .5s;
+    cursor: pointer;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.attribution p:hover{
+    color: gray;
+    font-size: 12px;
+    transition: .3s;
+}
+
+.attribution a:hover{
+    transition: .2s;
+    color: hsl(229, 55%, 15%);
+}
