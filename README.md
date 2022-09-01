@@ -11,6 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
+- I learned a lot about the placement of the boxes and now I'm testing what I've learned in the months studying
+
 ## Author
 
 - Diego Valois
